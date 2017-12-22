@@ -7,3 +7,6 @@
 
 ### Step 2:  After answering the first question, the user is prompted with the second question of how many they would like to buy.
 
+<img width="834" alt="screenshot 2" src="https://user-images.githubusercontent.com/29213153/34311090-5ec34fda-e729-11e7-9290-755e3c1cb8a5.png">
+
+### Step 3:  After answering both questions, the application will provide a total cost for the user and also make them aware that their package has shipped.  It will then return to the main menu with the new inventory count.
