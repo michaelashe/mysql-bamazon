@@ -13,4 +13,6 @@
 
 <img width="837" alt="screenshot3" src="https://user-images.githubusercontent.com/29213153/34311167-fa269270-e729-11e7-8241-b6d25b53dba1.png">
 
-##Step 4:  If the quantity requested exceeds the available inventory then a message appears to inform the user that the order cannot be filled.  It then returns the main menu.
+### Step 4:  If the quantity requested exceeds the available inventory then a message appears to inform the user that the order cannot be filled.  It then returns the main menu.
+
+<img width="833" alt="screenshot4" src="https://user-images.githubusercontent.com/29213153/34311254-857e9e6c-e72a-11e7-92d3-f59e95af0b08.png">
